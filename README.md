@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mapleshade20
-- 👀 I’m interested in Minecraft (especially CODES and COMMANDS)
-- 🌱 I’m currently working hard to get into Peking University
-- 💞️ I’m looking to collaborate on the areas above
-- 📫 How to reach me: contact through howard380mc@outlook.com
+- 👀 I’m good at coding in Minecraft
+- 🌱 I’m currently working hard to study physics and Communism
+- 💞️ I’m looking forward to calling upon people to fight against oppression, and I want your voices.
+- 📫 How to reach me: contact through mapleshade20@gmail.com
 
 <!---
 Mapleshade20/Mapleshade20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
