@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mapleshade20
-- 👀 I’m good at coding in Minecraft
-- 🌱 I’m currently working hard to study physics and Communism
-- 💞️ I’m looking forward to calling upon people to fight against oppression, and I want your voices.
+- 👀 I’m good at coding (commands & datapacks) in Minecraft.
+- 🌱 I’m currently working hard to learn Revolutionary Communism, and python.
+- 💞️ I’m looking forward to a future where people are united to fight against Capitalism.
 - 📫 How to reach me: contact through mapleshade20@gmail.com
 
 <!---
