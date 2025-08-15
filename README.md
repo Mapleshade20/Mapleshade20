@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @Mapleshade20
-- 👀 Current stack: Python, Golang, JavaScript. I'd like to learn Rust someday but it doesn't seem easy.
-- 🌱 I'm a full stack enthusiast and a ML developer.
+- 👀 Current stack: CN+EN+Español (☺️), Rust (yay I made it🎉), Python, a bit of Golang. Todo: TypeScript.
+- 🌱 I'm a full stack enthusiast and a ML researcher.
 - 💞️ I’m looking forward to a time when people unite against Capitalism and work for a shared future.
-- 📫 How to reach me: contact through nothing
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-tau-pearl-82.vercel.app/api?username=Mapleshade20&locale=es&theme=ambient_gradient&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-tau-pearl-82.vercel.app/api/top-langs?username=Mapleshade20&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha" />
+</a>
 
 <!---
 Mapleshade20/Mapleshade20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
