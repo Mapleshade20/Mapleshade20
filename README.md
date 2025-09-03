@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Mapleshade20
-- 👀 Current stack: CN+EN+Español (☺️), Rust (yay I made it🎉), Python, a bit of Golang. Todo: TypeScript.
+- 👀 Current stack:
+    - 中文, English, Español (☺️)
+    - _Rust_ (YAY I've made it🎉), Python, C++
+    - Pending: TypeScript
 - 🌱 I'm a full stack enthusiast and a ML researcher.
-- 💞️ I’m looking forward to a time when people unite against Capitalism and work for a shared future.
+- 💞️ I’m looking forward to a time when people unite against **capitalism** and work for a shared future.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mapleshade20&locale=es&theme=ambient_gradient&rank_icon=github" />
