@@ -7,10 +7,10 @@
 - 💞️ I’m looking forward to a time when people unite against **capitalism** and work for a shared future.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mapleshade20&locale=es&theme=ambient_gradient&rank_icon=github" />
+  <img height=200 align="center" src="https://github-stats-ebon-three.vercel.app/api?username=Mapleshade20&locale=es&theme=ambient_gradient&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mapleshade20&layout=compact&langs_count=8&card_width=320&theme=buefy" />
+  <img height=210 align="center" src="https://github-stats-ebon-three.vercel.app/api/top-langs?username=Mapleshade20&layout=compact&langs_count=8&card_width=320&theme=buefy" />
 </a>
 
 <!---
